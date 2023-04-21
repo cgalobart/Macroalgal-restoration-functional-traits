@@ -7,11 +7,13 @@ Addressing marine restoration success: Evidence of species and functional divers
 Cristina Galobart1, Enric Ballesteros1, Raül Golo2, Emma Cebrian1
 
 1-Ecologia Marina, Centre d’Estudis Avançats de Blanes (CEAB-CSIC), Blanes, Spain
+
 2-Biodiversitat i Recursos Marins, Universitat de Girona (UdG), Girona, Spain
 
 # Journal
-Frontiers in Marine Science
-DOI: 
+Frontiers in Marine Science 
+
+DOI: (update when available)
 
 # Abstract
 
