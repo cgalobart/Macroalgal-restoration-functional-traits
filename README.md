@@ -13,7 +13,7 @@ Cristina Galobart1, Enric Ballesteros1, Raül Golo2, Emma Cebrian1
 # Journal
 Frontiers in Marine Science 
 
-DOI: (update when available)
+DOI: 10.3389/fmars.2023.1176655
 
 # Abstract
 
