@@ -2,9 +2,9 @@
 #FILE NAME: Taxonomical_diversity.R     
 #DATE: 02/03/2023
 #TITLE: Addressing marine restoration success: Evidence of species and functional diversity recovery in a ten-year restored macroalgal forest
-#AUTHORS: Cristina Galobart, Enric Ballesteros, Raül Golo, Emma Cebrian
-#SCRIPT: Raül Golo (raul.gonzalez@udg.edu) & C. Galobart (cgalobart@ceab.csic.es)
-#JOURNAL: Frontiers in Marine Science - under review
+#AUTHORS: Cristina Galobart, Enric Ballesteros, RaÃ¼l Golo, Emma Cebrian
+#SCRIPT: RaÃ¼l Golo (raul.gonzalez@udg.edu) & C. Galobart (cgalobart@ceab.csic.es)
+#JOURNAL: Frontiers in Marine Science
 
 # DISCLAMER: This script has been developed by an ecologist, not a programmer, 
 # so please take into account that the code may have room to be optimised. 
