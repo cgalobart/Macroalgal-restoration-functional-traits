@@ -2,11 +2,11 @@
 #FILE NAME: Functional_diversity.R
 #DATE: 02/03/2023
 #TITLE: Addressing marine restoration success: Evidence of species and functional diversity recovery in a ten-year restored macroalgal forest
-#AUTHORS: Cristina Galobart, Enric Ballesteros, Ra?l Golo, Emma Cebrian
-#JOURNAL: Frontiers in Marine Science - under review
+#AUTHORS: Cristina Galobart, Enric Ballesteros, Raul Golo, Emma Cebrian
+#JOURNAL: Frontiers in Marine Science 
 
-#Script obtained from Teixid? et al. 2018 (Nature Communications, DOI: 10.1038/s41467-018-07592-1)
-#Modified by: Ra?l Golo (raul.gonzalez@udg.edu) (automation) & C. Galobart (cgalobart@ceab.csic.es)
+#Script obtained from Teixido et al. 2018 (Nature Communications, DOI: 10.1038/s41467-018-07592-1)
+#Modified by: Raul Golo (raul.gonzalez@udg.edu) (automation) & C. Galobart (cgalobart@ceab.csic.es)
 
 # DISCLAMER: This script has been modified by ecologists, not programmers,
 # so please take into account that the code may have room to be optimised.
